@@ -6,7 +6,7 @@ const Hero = () => {
   return (
     <div className='hero ' id='hero'>
       <div className="hero-text">
-        <h1>world's Best University</h1>
+        <h1>world Best University</h1>
         <p>Better World Education provides quality education to empower individuals and build a brighter, better future globally.</p>
         <button className='button'>Explore more</button>
       </div>
