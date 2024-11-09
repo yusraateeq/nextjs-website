@@ -9,7 +9,7 @@ const Services = () => {
             <div className='sub-services'>
                 <div className='child-services'>
                     <h4>Intermediate</h4>
-                    <p>Welcome to our university's Intermediate Program, where we lay a strong foundation for your academic and professional journey. With a focus on personalized guidance, diverse subject options, and a supportive learning environment, we help students develop the skills and knowledge they need for future success. Join us and take the first step toward a bright future!</p>
+                    <p>Welcome to our university Intermediate Program, where we lay a strong foundation for your academic and professional journey. With a focus on personalized guidance, diverse subject options, and a supportive learning environment, we help students develop the skills and knowledge they need for future success. Join us and take the first step toward a bright future!</p>
                 </div>
                 <div className='child-services'>
                     <h4>Degree</h4>
