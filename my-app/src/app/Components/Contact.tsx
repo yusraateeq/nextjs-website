@@ -1,6 +1,5 @@
 import React from 'react'
 import './Contact.css'
-import icon from '../../assets/location.png'
 
 const Contact = () => {
   return (

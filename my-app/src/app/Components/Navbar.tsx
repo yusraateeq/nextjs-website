@@ -1,7 +1,6 @@
 "use client"
 import React, { useEffect, useState } from 'react'
 import './Navbar.css'
-import logo from '../../assets/logo.png'
 import menu_icon from '../../assets/menu.png'
 import Image from 'next/image'
 
@@ -21,7 +20,6 @@ const Navbar = () => {
 
   return (
     <nav className={` ${sticky? 'menu' : ''}`}>
-      {/* <Image  src={logo} alt="" className='logo'/> */}
       <li className='logo'><a href="#hero">Education</a></li>
       <ul className={mobileMenu ? '':'hide-on-mobile'}>
         <li><a href="#hero">Home</a></li>
